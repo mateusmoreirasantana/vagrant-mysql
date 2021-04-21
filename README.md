@@ -17,12 +17,12 @@
 
 
 ## Instalação 
-*É necessário que esteja instalado o Virtual box em sua maquina.
+*É necessário que esteja instalado o Virtual box em sua maquina.<br/>
 Para subir a Máquina Virtual:  
-    1 - criar uma pasta em sua maquina.
-    2 - Clonar o repositório: "https://github.com/mateusmoreirasantana/vagrant-mysql".  
-    3 - Subir o Vagrant* via comando: "vagrant up".  
-    4 - executar o comando "vagrant ssh" para acessar o terminal do linux.
+    1 - criar uma pasta em sua maquina.<br/>
+    2 - Clonar o repositório: "https://github.com/mateusmoreirasantana/vagrant-mysql".  <br/>
+    3 - Subir o Vagrant* via comando: "vagrant up".  <br/>
+    4 - executar o comando "vagrant ssh" para acessar o terminal do linux.<br/>
 
 
 
